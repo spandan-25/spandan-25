@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Spandan Dhara</h1>
 <h3 align="center">I am a Computer Science fresher seeking for roles and opportunities in Machine Learning and Data Analysis.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=spandan-25" alt="spandan-25" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dhara@2003" target="blank"><img src="https://img.shields.io/twitter/follow/dhara@2003?logo=twitter&style=for-the-badge" alt="dhara@2003" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spandan-25&label=Profile%20views&color=0e75b6&style=flat" alt="spandan-25" /> </p>
 
 - 🔭 I’m currently working on **Telco Churn Prediction Model**
 
@@ -21,6 +19,9 @@
 <a href="https://linkedin.com/in/spandan-dhara-35353b22b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="spandan-dhara-35353b22b" height="30" width="40" /></a>
 <a href="https://instagram.com/___.spandan.___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="___.spandan.___" height="30" width="40" /></a>
 <a href="https://medium.com/@dhara.spandan.2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dhara.spandan.2003" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/spandand123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="spandand123" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@dhara.spandan.2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@dhara.spandan.2003" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/dharaspan7x21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dharaspan7x21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,3 +30,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spandan-25&show_icons=true&locale=en&layout=compact" alt="spandan-25" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spandan-25&show_icons=true&locale=en" alt="spandan-25" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spandan-25&" alt="spandan-25" /></p>
+
