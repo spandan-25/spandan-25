@@ -1,41 +1,78 @@
-<h1 align="center">Hi 👋, I'm Spandan Dhara</h1>
-<h3 align="center">I am a passionate Cybersecurity Analyst with expertise in Network and Cloud Security, Vulnerability Assessment, and SAP Security. Constantly learning and innovating in the realms of data science and engineering, aiming to contribute to impactful projects and secure systems.</h3>
+# Spandan Dhara
 
-<p align="left"> <a href="https://twitter.com/dhara_2003" target="blank"><img src="https://img.shields.io/twitter/follow/dhara_2003?logo=twitter&style=for-the-badge" alt="dhara_2003" /></a> </p>
+Cybersecurity Analyst specializing in **Identity & Access Management (IAM)**,  
+**Cloud Security (AWS, GCP)**, and **Threat Detection & Automation**.
 
-- 🌱 I’m currently learning **Cybersecurity Frameworks: Penetration Testing, Data Loss Prevention, Network and Cloud Security.**
+I work across cybersecurity engineering, cloud infrastructure, and data security.  
+My focus areas include IAM platforms, secure automation, and cloud-native security tools.
 
-- 👯 I’m looking to collaborate on **Data Analytics & Visualization**
+---
 
-- 🤝 I’m looking for help with **SAP Security and Compliance, and Advanced Vulnerability Assessments**
+## Work
 
-- 👨‍💻 All of my projects are available at [https://spandandhara.notion.site/Hi-I-m-Spandan-15041d565a9d80849e72f9198e538c98?pvs=73](https://spandandhara.notion.site/Hi-I-m-Spandan-15041d565a9d80849e72f9198e538c98?pvs=73)
+**Cybersecurity Trainee — Deloitte USI**  
+*2026 – Present*  
+- Built automated GCP–Power BI reporting pipelines, reducing reporting time by 50%.  
+- Strengthened stakeholder relationships enabling successful project renewals.  
+- Improved security workflows through issue analysis, documentation, and planning.
 
-- 💬 Ask me about **Vulnerability Assessment, Risk Mitigation Strategies, Python, Bash Scripting, and Data Security**
+**Cybersecurity Trainee — iAspireMind Foundation**  
+*2025*  
+- Hands-on with **SailPoint IIQ, CyberArk, Okta, ServiceNow**.  
+- Implemented log monitoring pipelines (Splunk + CyberArk), improving threat detection by 25%.  
+- Gained experience in secure process engineering and operational security.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13Jh5XOmLDLj6Q_IlsUrXruA-36OS-PDD/view?usp=drive_link](https://drive.google.com/file/d/13Jh5XOmLDLj6Q_IlsUrXruA-36OS-PDD/view?usp=drive_link)
+**Web3 Security Data Analyst — Webacy**  
+*2024*  
+- Analyzed smart contract vulnerabilities and created high-quality risk datasets.  
+- Applied ML techniques for clustering contracts and improving risk profiling.  
+- Peer-reviewed labels to maintain audit-grade consistency.
 
-- ⚡ Fun fact **I believe cybersecurity is not just about protecting systems—it's about telling better stories with data breaches avoided!**
+---
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dhara_2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhara_2003" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/spandan-dhara-35353b22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/spandan-dhara-35353b22b/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/28700302/spandan-dhara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/28700302/spandan-dhara" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/spandandhara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/spandandhara" height="30" width="40" /></a>
-<a href="https://medium.com/@dhara.spandan.2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dhara.spandan.2003" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/dhara_spandan_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/dhara_spandan_21" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/spandand123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/spandand123/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/dharaspan7x21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/dharaspan7x21/" height="30" width="40" /></a>
-</p>
+**Rajya Sahayog Chatbot — Smart India Hackathon (Grand Finalist)**  
+Government employee query assistant built with secure data workflows and ML-based intent analysis.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+**Loan Status Prediction • Customer Churn Prediction**  
+End-to-end data science pipelines built using Python, Scikit-learn, Pandas, & Streamlit.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=spandan-25&show_icons=true&locale=en&layout=compact" alt="spandan-25" /></p>
+**Web3 Security Dataset Engineering**  
+Unsupervised ML–driven clustering and risk scoring of smart contracts.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=spandan-25&show_icons=true&locale=en" alt="spandan-25" /></p>
+---
+
+## Skills
+
+- **Security:** IAM (SailPoint, Okta, CyberArk), SIEM (Splunk), Cloud Security  
+- **Cloud:** AWS, GCP  
+- **Programming:** Python, Java, Kotlin, JavaScript  
+- **Data:** Power BI, SQL (PostgreSQL, Oracle), Pandas  
+- **Tools:** GitHub, Docker, Linux, ServiceNow, Salesforce
+
+---
+
+## Certifications
+
+- NSD Certification in Identity & Access Management  
+- Saviynt – Identity Security for the AI Age  
+- Additional GCP & Coursera verifications available upon request
+
+---
+
+## Education
+
+**B.Tech in Computer Science Engineering**  
+Institute of Engineering & Management (IEM), Kolkata  
+GPA: 8.74
+
+---
+
+## Links
+
+- Website/Portfolio: https://spandandhara.notion.site  
+- GitHub: https://github.com/spandan-25  
+- LinkedIn: https://www.linkedin.com/in/spandan-dhara-35353b22b/  
+- Email: dhara.spandan.2003@gmail.com
+
